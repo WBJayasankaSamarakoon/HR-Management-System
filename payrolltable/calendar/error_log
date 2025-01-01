@@ -1,0 +1,240 @@
+[14-Sep-2024 08:00:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:3
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(3): mysqli->__construct()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 3
+[14-Sep-2024 08:48:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:3
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(3): mysqli->__construct()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 3
+[14-Sep-2024 11:47:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:3
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(3): mysqli->__construct()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 3
+[15-Sep-2024 03:11:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:3
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(3): mysqli->__construct()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 3
+[15-Sep-2024 03:11:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:3
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(3): mysqli->__construct()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 3
+[15-Sep-2024 03:11:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:3
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(3): mysqli->__construct()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 3
+[15-Sep-2024 03:14:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:3
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(3): mysqli->__construct()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 3
+[15-Sep-2024 03:16:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:3
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(3): mysqli->__construct()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 3
+[15-Sep-2024 11:31:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:3
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(3): mysqli->__construct()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 3
+[15-Sep-2024 11:31:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:3
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(3): mysqli->__construct()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 3
+[15-Sep-2024 11:31:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:3
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(3): mysqli->__construct()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 3
+[24-Sep-2024 21:34:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:3
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(3): mysqli->__construct()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 3
+[25-Sep-2024 03:12:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:3
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(3): mysqli->__construct()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 3
+[25-Sep-2024 03:13:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php:8
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php(8): mysqli->__construct()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php on line 8
+[25-Sep-2024 03:23:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:11
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 11
+[25-Sep-2024 03:24:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php:18
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php(18): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php on line 18
+[25-Sep-2024 03:27:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php:18
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php(18): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php on line 18
+[25-Sep-2024 03:35:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:11
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 11
+[25-Sep-2024 03:35:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php:18
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php(18): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php on line 18
+[25-Sep-2024 05:23:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:11
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 11
+[25-Sep-2024 05:24:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php:18
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php(18): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php on line 18
+[25-Sep-2024 05:25:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php:18
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php(18): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php on line 18
+[25-Sep-2024 06:02:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:11
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 11
+[25-Sep-2024 06:02:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php:15
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php(15): mysqli->prepare()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php on line 15
+[25-Sep-2024 06:10:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:11
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 11
+[25-Sep-2024 06:10:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php:15
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php(15): mysqli->prepare()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php on line 15
+[25-Sep-2024 06:11:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:11
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 11
+[25-Sep-2024 06:11:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php:15
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php(15): mysqli->prepare()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php on line 15
+[25-Sep-2024 06:15:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:11
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 11
+[25-Sep-2024 06:15:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php:15
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php(15): mysqli->prepare()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php on line 15
+[25-Sep-2024 06:17:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:11
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 11
+[25-Sep-2024 06:22:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:11
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 11
+[25-Sep-2024 06:22:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php:20
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php(20): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php on line 20
+[25-Sep-2024 06:25:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:11
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 11
+[25-Sep-2024 06:25:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php:20
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php(20): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php on line 20
+[25-Sep-2024 06:47:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:11
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 11
+[25-Sep-2024 06:56:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:11
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 11
+[25-Sep-2024 06:56:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:11
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 11
+[25-Sep-2024 06:56:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php:18
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php(18): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php on line 18
+[25-Sep-2024 06:56:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php:18
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php(18): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/add_event.php on line 18
+[25-Sep-2024 07:01:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:11
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 11
+[25-Sep-2024 07:01:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ultieeel_ueshrdb.Event' doesn't exist in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php:11
+Stack trace:
+#0 /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/fetch_events.php on line 11
+[13-Oct-2024 15:11:26 UTC] PHP Warning:  include_once(security.php): Failed to open stream: No such file or directory in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php on line 3
+[13-Oct-2024 15:11:26 UTC] PHP Warning:  include_once(): Failed opening 'security.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php on line 3
+[13-Oct-2024 15:11:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php on line 4
+[13-Oct-2024 15:13:36 UTC] PHP Warning:  include_once(security.php): Failed to open stream: No such file or directory in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php on line 3
+[13-Oct-2024 15:13:36 UTC] PHP Warning:  include_once(): Failed opening 'security.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php on line 3
+[13-Oct-2024 15:13:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php on line 4
+[13-Oct-2024 15:13:51 UTC] PHP Warning:  include_once(security.php): Failed to open stream: No such file or directory in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php on line 3
+[13-Oct-2024 15:13:51 UTC] PHP Warning:  include_once(): Failed opening 'security.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php on line 3
+[13-Oct-2024 15:13:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php on line 4
+[15-Oct-2024 06:33:13 UTC] PHP Warning:  include_once(security.php): Failed to open stream: No such file or directory in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php on line 3
+[15-Oct-2024 06:33:13 UTC] PHP Warning:  include_once(): Failed opening 'security.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php on line 3
+[15-Oct-2024 06:33:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php on line 4
+[16-Oct-2024 10:31:22 UTC] PHP Warning:  include_once(security.php): Failed to open stream: No such file or directory in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php on line 3
+[16-Oct-2024 10:31:22 UTC] PHP Warning:  include_once(): Failed opening 'security.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php on line 3
+[16-Oct-2024 10:31:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_login() in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ultieeel/test.ueshr.ultimate.lk/payrolltable/calendar/index.php on line 4

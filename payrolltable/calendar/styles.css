@@ -1,0 +1,65 @@
+/* styles.css */
+
+/* Year View Styles */
+.year-view-table {
+    width: 52%;
+    margin: auto;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.year-view-table td {
+    width: 25%; /* Reduced width to make columns shorter */
+    text-align: center;
+    padding: 6px; /* Reduced padding for a more compact look */
+    border: 1px solid #e0e0e0;
+    background-color: #fafafa;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+    height: 20px; /* Fixed height for a shorter row */
+    line-height: 20px; /* Center text vertically */
+}
+
+.year-view-table td:hover {
+    background-color: #f0f0f0;
+    transform: translateY(-2px);
+}
+
+/* FullCalendar Styles */
+#calendar {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 0 15px;
+}
+
+/* Style for the calendar container */
+.fc {
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Event Dots */
+.fc-daygrid-day {
+    position: relative;
+}
+
+.fc-daygrid-day::after {
+    content: "";
+    position: absolute;
+    bottom: 6px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 8px;
+    height: 8px;
+    background-color: #4caf50;
+    border-radius: 50%;
+    display: none;
+}
+
+.fc-daygrid-day[data-events="true"]::after {
+    display: block;
+}
